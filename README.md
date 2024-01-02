@@ -5,7 +5,7 @@ git submodule update --remote --merge
 npm i
 npm run build:win
 ```
-Then check `dist` folder 
+Then check `dist` folder
 
 # Deployment
 Run `npm run deploy:prod`
